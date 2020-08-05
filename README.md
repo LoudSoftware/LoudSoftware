@@ -11,7 +11,7 @@
 ### Where to find me:
 * Sometimes I like to get a box rooted on HTB
 
-    <script src="https://www.hackthebox.eu/badge/229158"></script>
+    <img src="http://www.hackthebox.eu/badge/image/229158" alt="Hack The Box">
 
 * Other times you can find me on the following:
     * Here, on github
