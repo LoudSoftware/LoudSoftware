@@ -1,2 +1,0 @@
-* Testing out org mode on gh profile
-  Simple org mode test for gh profile
