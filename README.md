@@ -1,6 +1,6 @@
 ## Hey there 👋, name's Nico, but some prefer Loud Software
 
-# I'm a 4<sup>th</sup> year computer science student at [uOttawa]
+# I'm a Security Consultant at [IBM Canada]
 
 * 👨‍💻 Programmer
 * 🐱‍💻 Cyber Security nerd
@@ -21,7 +21,6 @@
 ---
 <img align="left" alt="LoudSoftware's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LoudSoftware&show_icons=true&hide_border=true" />
 
-
-[uOttawa]: https://www.uottawa.ca/en
+[IBM Canada]: https://www.ibm.com/security/services?lnk=hpmsc_buse_caen
 [Instagram]: https://instagram.com/LoudSoftware
 [website]: https://loud.software
